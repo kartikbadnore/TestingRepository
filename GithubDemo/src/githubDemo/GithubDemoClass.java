@@ -1,4 +1,4 @@
-package githubDemoClass;
+package githubDemo;
 
 public class GithubDemoClass {
 	
