@@ -8,7 +8,7 @@ public class GithubDemoClass {
 		
 		
 		
-		System.out.println("pull this");
+		System.out.println("push this");
 	}
 
 }
